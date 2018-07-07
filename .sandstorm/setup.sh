@@ -2,7 +2,7 @@
 # install mysql php nginx and elabftw
 
 GIT_REPO="https://github.com/elabftw/elabftw"
-GIT_BRANCH="sandstorm"
+GIT_BRANCH="hypernext"
 
 # When you change this file, you must take manual action. Read this doc:
 # - https://docs.sandstorm.io/en/latest/vagrant-spk/customizing/#setupsh
