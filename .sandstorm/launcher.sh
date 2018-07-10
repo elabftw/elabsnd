@@ -34,6 +34,7 @@ while [ ! -e /var/run/php/php7.1-fpm.sock ] ; do
     sleep .2
 done
 
+# TODO this should be in build.sh or something but mysql is not available there
 # create the elabftw database
 echo "CREATE DATABASE IF NOT EXISTS elabftw;" | mysql -uroot
 # import structure

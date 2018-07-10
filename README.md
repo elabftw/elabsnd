@@ -5,4 +5,6 @@
 
 # Description
 
-eLabFTW for Sandstorm
+eLabFTW for Sandstorm. DO NOT USE, it's completely broken!
+
+I'm leaving the repo here if someone wants to push it further, but as far as I'm concerned I'm done with Sandstorm.
